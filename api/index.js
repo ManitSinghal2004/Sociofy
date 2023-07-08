@@ -17,7 +17,9 @@ import multer  from "multer";
    next()
  })
  app.use(express.json());
- app.use(cors({credentials: true , origin : "https://manit-sociofy.netlify.app"}));
+ app.use(cors({
+   origin: "http://localhost:3000",
+ }));
  app.use(cookieParser());
 
 
