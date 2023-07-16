@@ -1,5 +1,7 @@
 # Sociofy
 Link to the deployed website : https://manit-sociofy.netlify.app/
+
+
 In this project, I have developed a web-based social media application using ReactJS and Node.js, with MySQL as the database. The application allows users to perform various social media functionalities such as posting images with descriptions, liking and commenting on other people's posts, creating a profile, and following other users.
 
 Sociofy includes user authentication functionality, allowing new users to register before gaining access to the platform. Once registered, users can log in using their credentials to access the full features of the application.
